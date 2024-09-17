@@ -31,3 +31,26 @@ img{
 .conteiner strong{
     font-size: 32px;
 }
+
+.button{
+    display: inline-block;
+    border-radius: 10%;
+    padding: 10px;
+    background-color: blue;
+}
+
+.card{
+    max-width: 800px;
+    margin: auto;
+}
+.menu{
+    background-color: white;
+    padding: 20px;
+}
+
+.bg-gray{
+    background-color: gray;
+}
+.bg-white{
+    background-color: white;
+}

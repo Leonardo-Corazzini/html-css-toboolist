@@ -63,15 +63,35 @@ img{
     padding-top: 40px;
 }
 
+/* list style */
+
+
+.todolist{
+    padding: 20px;
+}
 
 .label{
     border-radius: 20%;
     color: white;
-    padding: 3px;
-    background-color:chartreuse;
+    padding: 5px;
     font-size: 10px;
 }
+.editorial{
+    background-color: rgb(43, 168, 240);
+}
 
-.todolist{
-    padding: 20px;
+.goals{
+    background-color: blue;
+}
+.recruiting{
+    background-color: rgba(179, 104, 34, 0.993);
+}
+.mobile{
+    background-color: chocolate;
+}
+.website{
+    background-color: hotpink;
+}
+.sales{
+    background-color: yellowgreen;
 }
